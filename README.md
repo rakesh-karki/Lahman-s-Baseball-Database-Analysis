@@ -1,6 +1,5 @@
 # Lahman's Baseball Database Analysis
-In this project, we will be using the Lahman Baseball Database (available at: http://www.seanlahman.com/baseball-archive/statistics/) to conduct various data analyses using different pyspark tools.  
-Ref: http://www.seanlahman.com/files/database/readme2017.txt  
+In this project, I will be using the Lahman Baseball Database to conduct various data analyses using different pyspark tools.   
 
 **The database is comprised of the following main tables:**  
   - People - Player names, DOB, and biographical info  
